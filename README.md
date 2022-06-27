@@ -9,10 +9,6 @@ _**ATTN: Prospective Employer -**_
 
 &nbsp;&nbsp;&nbsp;&nbsp; If your organization is seeking a skilled and experienced personnel candidate, I would appreciate the opportunity to discuss your needs and objectives with you. The training and skills described within the accompanying resume will illustrate the value that I can bring to your team. I possess highly professional skills like communication, interpersonal, technical skills and qualifications that would surely benefit the progress of your company. Therefore, it would be very beneficial for us to communicate further. 
 
-&nbsp;&nbsp;&nbsp;&nbsp; I am seeking a goal-oriented position within a well-established organization. I desire a REMOTE position; I can assure you my eagerness and desire to contribute my services to those who are excelling in this industry and those who are adhering to the COVID-19 pandemic containment initiatives for the welfare and wellbeing of their employees and customer base alike is unmatched. 
-
-&nbsp;&nbsp;&nbsp;&nbsp; I believe that my experience is in line with your needs. If you are looking for a dependable, results-oriented professional with a solid performance track, I would be interested in speaking with you to discuss the value that my strengths and experience can bring to your search. I can be reached in confidence via email address or phone number above and look forward to hearing from you.
-
 &nbsp;&nbsp;&nbsp;&nbsp; Thank you for taking the time to consider my application.
 
 
@@ -53,7 +49,7 @@ Goal driven, compassionate and accountable professional with over 30 years of ha
 
 **User Experience --** Designed the entire presentation, to include but not limited to the application branding, via Image Panes, Stages, Scenes, Labels, Window Modals and CSS to create visually appealing and functional design. The user can navigate between 16 total screens via a Combo box and/or buttons on each page. I ensured the user had the ability to exit the program in more than one place and return to the current playlist for additional options if desired.  Allowed the user the ability to manipulate the application via SQL CRUD options. 
 
-**Backend Development --** Designed and created the database schema - diyplaylist. Created 4 tables then loaded CSV files that contained details for each song within the Playlists. Loaded each table from the backend database (MySQL) using SQL INSERT, UPDATE and SELECT Queries while instantiating DTO objects.  
+**Backend Development --** Designed and created the database schema - diyplaylist. Created several tables then loaded CSV files that contained details for each song within the Playlists. Loaded each table from the backend database (MySQL) using SQL INSERT, UPDATE and SELECT Queries while instantiating DTO objects.  
 
 **Table Management --** Designed queries to load playlist information from MySQL table using JDBC using the Driver Manager, PreparedStatements and ResultSet utilizing CRUD SQL statements: CREATE (insert), READ (select), UPDATE and DELETE.  
 
